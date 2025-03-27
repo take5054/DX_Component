@@ -21,6 +21,9 @@
     <FxCompile Include="PS_ProgressCircle.hlsl">
       <Filter>ソース ファイル</Filter>
     </FxCompile>
+    <FxCompile Include="PS_AddOutLine.hlsl">
+      <Filter>ソース ファイル</Filter>
+    </FxCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Text.hpp">
